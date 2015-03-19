@@ -1,4 +1,3 @@
-# Git - The Simple Guide
+# Git - 简明指南
 
-http://rogerdudler.github.com/git-guide/
-
+http://itmyhome.com/git-guide/
