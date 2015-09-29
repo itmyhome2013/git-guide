@@ -1,3 +1,4 @@
-# Git - 简明指南
+Git - 简明指南
+============
 
-http://itmyhome.com/git-guide/
+<a href="http://blog.itmyhome.com/git-guide/" target="_blank">点击</a>
